@@ -1,0 +1,22 @@
+{
+  "name": "homebridge-mpc",
+  "version": "0.0.1",
+  "description": "MPC plugin for homebridge: https://github.com/nfarina/homebridge",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stephan-01010011/homebridge-mpc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stephan-01010011/homebridge-mpc/issues"
+  },
+  "engines": {
+    "node": ">=6.4.0",
+    "homebridge": ">=0.3.4"
+  },
+  "dependencies": {
+  }
+}
